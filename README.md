@@ -50,6 +50,7 @@ pip install torch torchvision pillow tqdm
 python generate.py --num_samples 64 --output_dir ./generated_images/
 ```
 - 生成 64 张图像保存到指定目录。
+![epoch 20](log/epoch_20.png)
 
 ## 改进说明
 ### 原始问题
